@@ -1,0 +1,21 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "ipfs-block": "^0.5.3",
+    "ipld-dag-cbor": "^0.8.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "reactpack": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

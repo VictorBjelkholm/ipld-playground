@@ -1,0 +1,6 @@
+.active {
+  font-weight: bolder;
+  background-color: black;
+  color: white;
+  border-radius: 2px;
+}
